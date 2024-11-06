@@ -3,7 +3,7 @@
 Testing out GitHub Actions to create a virtual machine(VM) within Azure. 
 
 
-## Credits
+## Creditss
 
 Written by: Sarah Lean
 
